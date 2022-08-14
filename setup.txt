@@ -1,0 +1,6 @@
+a/ you need to copy the the folder onSpring in user.home
+
+Main class: io.OnSpringAnnotationsLauncher
+user.home/onSpring/onSpring.properties will then be read 
+see also docs/onSpringAnnotations.pdf
+
